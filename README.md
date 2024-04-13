@@ -1,0 +1,1 @@
+# Bug-Bounty-XSS-Payloads
